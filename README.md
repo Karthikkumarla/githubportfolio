@@ -208,3 +208,4 @@ The National Degree College Bagepalli, Bangalore University | 2021
 
 I am actively seeking opportunities as a Data Analyst, Business Intelligence Analyst, SQL Developer, Power BI Developer, or Reporting Analyst where I can contribute to business reporting, dashboard development, data automation, and analytics-driven decision making.
 testing new email
+Updated on March 15
