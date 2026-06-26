@@ -1,5 +1,5 @@
 # Hello, I'm Karthik Kumar L A
-## **Specialist - MIS Analyst **| Data Analyst | Business Intelligence Specialist | SQL Developer | Power BI Developer
+## Specialist - MIS Analyst | Data Analyst | Business Intelligence Specialist | SQL Developer | Power BI Developer
 
 <p align="center">
 
