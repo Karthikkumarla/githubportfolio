@@ -1,4 +1,4 @@
-# Karthik Kumar L A  
+# Hello, I'm Karthik Kumar L A
 ## Data Analyst | Business Intelligence Specialist | SQL Developer | Power BI Developer
 
 <p align="center">
