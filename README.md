@@ -74,32 +74,32 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 
 ## GitHub Analytics
 
-<h1 align="center">GitHub Analytics</h1>
+<h1 align="center">Hi, I'm Karthik 👋</h1>
 
 <p align="center">
-  <img 
-    src="assets/github-analytics-professional.png" 
-    alt="Karthik Kumar L A GitHub Analytics" 
-    width="100%"
-  />
-</p>
-
-<br />
-
-<p align="center">
-  <img 
-    src="assets/github-contributions-professional.png" 
-    alt="Karthik Kumar L A GitHub Contributions" 
-    width="100%"
-  />
+  Developer • Builder • Problem Solver
 </p>
 
 <p align="center">
-  <img src="assets/github-analytics-professional@2x.png" alt="GitHub Analytics" width="100%" />
+  <img src="./assets/professional-contribution-grid.svg" alt="Professional contribution graph" width="100%" />
 </p>
 
+## About Me
+
+- I build clean and useful software projects
+- I enjoy improving UI, performance, and user experience
+- I am continuously learning and creating
+
+## Tech Stack
+
 <p align="center">
-  <img src="assets/github-contributions-professional@2x.png" alt="GitHub Contributions" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
+</p>
+
+## GitHub Activity
+
+<p align="center">
+  <img src="./assets/professional-contribution-grid.svg" alt="Professional contribution graph" width="100%" />
 </p>
 ---
 
