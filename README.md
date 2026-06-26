@@ -71,12 +71,6 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 - Practical approach to solving business problems using data
 
 ---
-<h1 align="center">Hi, I'm Karthik Kumar</h1>
-
-<p align="center">
-  <b>Developer | Problem Solver | Continuous Learner</b>
-</p>
-
 <p align="center">
   <a href="https://github.com/Karthikkumarla">
     <img src="https://komarev.com/ghpvc/?username=Karthikkumarla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
