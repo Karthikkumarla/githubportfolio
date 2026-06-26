@@ -74,11 +74,33 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 
 ## GitHub Analytics
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthikkumarla&show_icons=true&theme=github_dark)
+<h1 align="center">GitHub Analytics</h1>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikkumarla&layout=compact&theme=github_dark)
+<p align="center">
+  <img 
+    src="assets/github-analytics-professional.png" 
+    alt="Karthik Kumar L A GitHub Analytics" 
+    width="100%"
+  />
+</p>
 
-- GitHub: [github.com/Karthikkumarla](https://github.com/Karthikkumarla)
+<br />
+
+<p align="center">
+  <img 
+    src="assets/github-contributions-professional.png" 
+    alt="Karthik Kumar L A GitHub Contributions" 
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img src="assets/github-analytics-professional@2x.png" alt="GitHub Analytics" width="100%" />
+</p>
+
+<p align="center">
+  <img src="assets/github-contributions-professional@2x.png" alt="GitHub Contributions" width="100%" />
+</p>
 ---
 
 ## Connect With Me
