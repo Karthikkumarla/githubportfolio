@@ -798,7 +798,7 @@ Built fully automated SQL reporting solutions integrated with Excel dashboards, 
 
 | Category | Technologies |
 |----------|--------------|
-| Database | Oracle SQL, MySQL |
+| Database | Oracle SQL, Mysql |
 | Visualization | Power BI, Advanced Excel |
 | ETL | Power Query |
 | Automation | VBA |
