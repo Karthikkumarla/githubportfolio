@@ -74,10 +74,11 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 
 ## GitHub Analytics
 
-![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=github_dark)
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Karthikkumarla&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikkumarla&layout=compact&theme=github_dark)
 
+- GitHub: [github.com/Karthikkumarla](https://github.com/Karthikkumarla)
 ---
 
 ## Connect With Me
