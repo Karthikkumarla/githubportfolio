@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karthik Kumar L A
 
-## Senior MIS Analyst | Data Analyst | BI Developer
+## Specilist-MIS Analyst | Data Analyst | BI Developer
 
 Passionate about transforming raw data into actionable business insights through **SQL, Advanced Excel, Power BI, VBA, Power Query, and Reporting Automation**.
 
