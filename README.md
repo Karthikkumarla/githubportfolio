@@ -1,105 +1,18 @@
-# Hi 👋, I'm Karthik Kumar L A
+# 💫 About Me:
+I am Karthik Kumar L A, a passionate Data Analyst, Business Intelligence Specialist, and SQL Developer with over 3 years of professional experience in transforming raw data into meaningful business insights. My expertise lies in SQL development, Power BI dashboard creation, reporting automation, data validation, and business intelligence solutions that support strategic decision-making.<br><br>I currently work as a Specialist – MIS Analytics at Sagility India Pvt Ltd, where I design interactive Power BI dashboards, develop complex Oracle SQL and SQL Server queries, automate recurring reports using Excel VBA and Power Query, and deliver executive-level KPI reporting. My work has helped reduce manual reporting effort, improve reporting accuracy, and provide real-time operational visibility for leadership teams.<br><br>Previously, I worked as a Process Consultant – Operations & Analytics, where I developed KPI dashboards, analyzed operational performance, created automated Excel reports, supported UAT, prepared BRD/FRD documentation, and improved reporting workflows through process optimization.<br><br>My Core Expertise<br>SQL Development (Oracle SQL, SQL Server, MySQL, PL/SQL)<br>Power BI Dashboard Development<br>DAX & Data Modeling<br>Power Query<br>Advanced Excel<br>VBA Macros<br>VBScript Automation<br>KPI Dashboard Design<br>Business Intelligence<br>Data Visualization<br>Reporting Automation<br>ETL Concepts<br>Data Validation<br>Data Reconciliation<br>Operational Analytics<br>Trend Analysis<br>Gap Analysis<br>Variance Analysis<br>SLA & Performance Reporting<br>Stakeholder Management<br>Business Requirements Gathering<br>BRD & FRD Documentation<br>Process Improvement<br>Technical Skills<br><br>Databases<br><br>Oracle SQL<br>SQL Server<br>MySQL<br>PL/SQL<br><br>Business Intelligence<br><br>Power BI<br>DAX<br>Power Query<br>Interactive Dashboards<br>KPI Reporting<br><br>Automation<br><br>Excel VBA<br>Power Query<br>VBScript<br>Automated Reporting Pipelines<br><br>Analytics<br><br>Data Cleaning<br>Data Transformation<br>Data Validation<br>Data Mapping<br>Data Reconciliation<br>Trend Analysis<br>Operational Analytics<br>Business Intelligence<br>Reporting Automation<br><br>Microsoft Tools<br><br>Advanced Excel<br>Pivot Tables<br>XLOOKUP<br>Power Query<br>VBA<br>PowerPoint<br>Outlook<br>Office 365<br>Professional Strengths<br>Building executive-level Power BI dashboards<br>Writing optimized SQL queries for large datasets<br>Automating repetitive reporting processes<br>Creating interactive business intelligence solutions<br>Designing KPI and SLA monitoring dashboards<br>Solving complex business problems using data<br>Communicating insights to technical and non-technical stakeholders<br>Delivering accurate, scalable, and automated reporting systems<br>Major Projects<br>Claims Analytics Dashboard<br>Sales Performance Dashboard<br>SQL Data Warehouse & Reporting Solution<br>Automated Operational Reporting System<br>Executive KPI Dashboard<br>SLA Monitoring Dashboard<br>Achievements<br>Top Gun Award<br>Excellence in Analysis & Reporting Award<br>Top Performer Award<br>Automated 20+ operational reports<br>Reduced manual reporting effort by 30%<br>Improved dashboard visibility and reporting accuracy<br>Built scalable reporting solutions used by leadership teams<br>Education<br>MBA (Finance)<br>Bachelor of Commerce (Finance)<br>Career Objective<br><br>I aim to build a career as a Senior Data Analyst, Business Intelligence Developer, Analytics Consultant, or Data Engineer, where I can leverage SQL, Power BI, automation, and business intelligence expertise to develop data-driven solutions that improve organizational performance. I am continuously expanding my knowledge in Python, Cloud Technologies (Azure/AWS), Microsoft Fabric, and AI-powered analytics to become a well-rounded modern Data Analytics professional.<br><br>Personal Brand<br><br>"I don't just create reports—I build intelligent, automated, and scalable analytics solutions that transform business data into strategic decisions."
 
-## Specilist-MIS Analyst | Data Analyst | BI Developer
 
-Passionate about transforming raw data into actionable business insights through **SQL, Advanced Excel, Power BI, VBA, Power Query, and Reporting Automation**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karthi10a022345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwathkarthik1@gmail.com) 
 
----
-
-## 🚀 About Me
-
-- 💼 Specialist – MIS Analyst
-- 📊 Build executive dashboards & KPI reports
-- ⚙️ Automate reporting with Excel, VBA & Power Query
-- 🗄️ SQL for data extraction, cleaning and optimization
-- 🌱 Currently expanding Power BI and analytics portfolio
+# 💻 Tech Stack:
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Karthikkumarla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Karthikkumarla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karthikkumarla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Karthikkumarla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages & Databases**
-
-`SQL` `Oracle` `MySQL` `SQL Server`
-
-**Analytics**
-
-`Power BI` `Excel` `Power Query` `Power Pivot`
-
-**Automation**
-
-`VBA` `Macros` `Reporting Automation`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `Microsoft Office`
-
----
-
-## 📂 Featured Projects
-
-### 📈 Executive Sales Dashboard
-- SQL + Power BI + Excel
-- Executive KPI dashboard
-- Regional sales analysis
-- Interactive drill-down
-
-### 👥 HR Analytics Dashboard
-- Attrition analysis
-- Hiring trends
-- Workforce insights
-
-### 💰 Finance Dashboard
-- Budget vs Actual
-- Variance Analysis
-- Profitability
-
-### 🏥 Healthcare MIS Dashboard
-- Productivity KPIs
-- SLA Tracking
-- Daily MIS Reporting
-
-### 📦 Inventory Dashboard
-- Stock Analysis
-- Demand Planning
-- Reorder Monitoring
-
----
-
-## 📊 GitHub Repository Structure
-
-```text
-SQL/
-Excel-Dashboards/
-PowerBI/
-Automation/
-Portfolio/
-```
-
----
-
-## 🎯 Core Skills
-
-- SQL
-- Advanced Excel
-- Power BI
-- Power Query
-- Power Pivot
-- VBA
-- Dashboard Development
-- Reporting Automation
-- Data Cleaning
-- ETL
-- KPI Reporting
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: Add your profile
-- Portfolio: Add your portfolio URL
-- Email: Add your email
-
----
-
-⭐ If you like my work, consider following my GitHub profile!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
