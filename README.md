@@ -1,5 +1,18 @@
 # Karthik Kumar L A  
 ## Data Analyst | Business Intelligence Specialist | SQL Developer | Power BI Developer
+<h1 align="center">
+Hi 👋, I'm Karthik Kumar L A
+</h1>
+
+<h3 align="center">
+Data Analyst | Business Intelligence Specialist | SQL Developer | Power BI Developer
+</h3>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Specialist;Oracle+SQL+Developer;Power+BI+Dashboard+Developer;Reporting+Automation+Expert;Turning+Data+Into+Business+Insights" />
+
+</p>
 
 I am a Data Analyst and Business Intelligence professional based in Bangalore, India, with hands-on experience in transforming raw business data into clear, actionable insights. My work focuses on SQL-based reporting, Power BI dashboard development, KPI tracking, data validation, Excel automation, and business process improvement.
 
