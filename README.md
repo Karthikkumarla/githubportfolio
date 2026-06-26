@@ -1,3 +1,52 @@
+<h1 align="center">Hi 👋, I'm Karthik Kumar L A</h1>
+
+<h3 align="center">
+Data Analyst | MIS Analyst | Business Intelligence Developer
+</h3>
+
+<p align="center">
+I specialize in transforming complex business data into meaningful insights through data analysis, interactive dashboards, and reporting automation. With expertise in Oracle SQL, MySQL, Power BI, Advanced Excel, Power Query, and VBA, I develop scalable analytics solutions that support data-driven decision-making and improve operational efficiency.
+</p>
+
+<p align="center">
+My experience includes designing executive dashboards, automating MIS reports, optimizing SQL queries, analyzing business KPIs, and delivering actionable insights across Sales, HR, Finance, Banking, Inventory, and Customer Analytics domains.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 📊 **Data Analyst & MIS Analyst** with expertise in Business Intelligence and Data Analytics
+- 🗄️ Strong experience in **Oracle SQL** and **MySQL**
+- 📈 Build interactive dashboards using **Power BI** and **Advanced Excel**
+- ⚡ Automate business reporting using **Power Query** and **VBA**
+- 📉 Develop KPI dashboards for Sales, HR, Finance, Banking, Inventory, and Operations
+- 🧹 Perform data cleaning, transformation, and business data validation
+- 🚀 Passionate about solving business problems through analytics and data visualization
+- 📚 Continuously learning modern BI tools, SQL optimization, and data engineering concepts
+
+---
+
+## 🛠️ Core Expertise
+
+- 📊 Business Intelligence & Dashboard Development
+- 🗄️ Oracle SQL & MySQL
+- 📈 Power BI
+- 📑 Advanced Microsoft Excel
+- 🔄 Power Query (ETL)
+- ⚙️ VBA Automation
+- 📋 MIS Reporting
+- 📉 KPI & Performance Analysis
+- 📊 Data Visualization
+- 🧹 Data Cleaning & Transformation
+- 📌 Business Analytics
+- 📈 Executive Reporting
+
+---
+
+> **"Turning raw data into meaningful insights, interactive dashboards, and business solutions that empower better decisions."**
+
+
 # 🗄️ Enterprise SQL Projects Portfolio
 
 > A collection of real-world SQL projects focused on business intelligence, analytics, reporting automation, performance optimization, and decision support. These projects demonstrate advanced SQL development skills used for enterprise reporting, KPI monitoring, customer analytics, financial analysis, and operational excellence.
