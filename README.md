@@ -564,6 +564,334 @@ Built fully automated SQL reporting solutions integrated with Excel dashboards, 
 
 ✔ KPI Development
 
+# 📊 Dashboard Portfolio
+
+> Enterprise Business Intelligence dashboards designed to solve real-world business challenges using **Oracle SQL**, **MySQL**, **Power BI**, **Advanced Excel**, **Power Query**, and **VBA Automation**.
+
+---
+
+# 🚀 Executive Dashboard Gallery
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📈 Sales Performance Dashboard
+
+<img src="images/sales_dashboard.png" width="100%">
+
+### Business KPIs
+
+- 💰 Revenue Analysis
+- 📊 Profit Analysis
+- 📦 Product Performance
+- 👥 Customer Segmentation
+- 🌍 Regional Sales
+- 📅 Monthly Sales Trend
+
+**Business Value**
+
+- Revenue Optimization
+- Sales Trend Analysis
+- Executive KPI Monitoring
+- Customer Insights
+
+</td>
+
+<td width="50%">
+
+## 👥 HR Analytics Dashboard
+
+<img src="images/hr_dashboard.png" width="100%">
+
+### Business KPIs
+
+- Employee Headcount
+- Attrition Rate
+- Gender Distribution
+- Hiring Trends
+- Salary Analysis
+- Department Performance
+
+**Business Value**
+
+- Workforce Planning
+- HR Reporting
+- Attrition Monitoring
+- Executive HR Dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 💰 Financial Analytics Dashboard
+
+<img src="images/finance_dashboard.png" width="100%">
+
+### Business KPIs
+
+- Revenue
+- Expenses
+- Profit Margin
+- Cash Flow
+- Budget Utilization
+- Financial Forecast
+
+**Business Value**
+
+- Financial Reporting
+- Profitability Analysis
+- Cost Optimization
+- Executive Finance Dashboard
+
+</td>
+
+<td>
+
+## 🏦 Banking Analytics Dashboard
+
+<img src="images/banking_dashboard.png" width="100%">
+
+### Business KPIs
+
+- Customer Accounts
+- Deposits
+- Loans
+- Branch Performance
+- Transactions
+- Account Balance
+
+**Business Value**
+
+- Banking Intelligence
+- Customer Analytics
+- Loan Monitoring
+- Branch Performance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📦 Inventory Dashboard
+
+<img src="images/inventory_dashboard.png" width="100%">
+
+### Business KPIs
+
+- Inventory Levels
+- Warehouse Performance
+- Stock Movement
+- Low Stock Alerts
+- Supplier Analysis
+- Product Availability
+
+**Business Value**
+
+- Inventory Optimization
+- Supply Chain Visibility
+- Warehouse Monitoring
+- Procurement Reporting
+
+</td>
+
+<td>
+
+## 📞 Customer Support Dashboard
+
+<img src="images/support_dashboard.png" width="100%">
+
+### Business KPIs
+
+- Tickets
+- Resolution Time
+- SLA Compliance
+- Customer Satisfaction
+- Agent Productivity
+- Escalation Rate
+
+**Business Value**
+
+- Customer Experience
+- SLA Monitoring
+- Support Performance
+- Operational Reporting
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 📈 Executive KPI Dashboard
+
+<img src="images/executive_dashboard.png" width="100%">
+
+### Executive Metrics
+
+- Revenue
+- Profit
+- Growth %
+- Customer Acquisition
+- Customer Retention
+- Business Performance
+
+**Business Value**
+
+- Executive Reporting
+- Strategic Decision Support
+- Performance Monitoring
+- Business Intelligence
+
+</td>
+
+<td>
+
+## ⚙️ MIS Automation Dashboard
+
+<img src="images/mis_dashboard.png" width="100%">
+
+### Automated Reports
+
+- Daily MIS Reports
+- Weekly Reports
+- Monthly Reports
+- KPI Reports
+- Performance Reports
+- Management Reports
+
+**Business Value**
+
+- Report Automation
+- Reduced Manual Effort
+- Increased Accuracy
+- Faster Decision Making
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🗄️ Database Technologies
+
+| Database | Expertise |
+|-----------|-----------|
+| Oracle SQL | Advanced Query Development, Performance Optimization, CTEs, Window Functions, Views, Stored Procedures |
+| MySQL | Database Design, Business Reporting, Analytical Queries, KPI Reporting, Stored Procedures |
+
+---
+
+# 🛠️ Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Database | Oracle SQL, MySQL |
+| Visualization | Power BI, Advanced Excel |
+| ETL | Power Query |
+| Automation | VBA |
+| Version Control | Git, GitHub |
+
+---
+
+# 📌 Core SQL Expertise
+
+### Query Development
+
+- Advanced SELECT Statements
+- Complex Multi-Table Joins
+- Recursive CTEs
+- Window Functions
+- Views
+- Stored Procedures
+- Correlated Subqueries
+- Performance Optimization
+
+---
+
+### Business Intelligence
+
+- Executive Dashboards
+- KPI Reporting
+- Financial Analytics
+- Sales Analytics
+- HR Analytics
+- Customer Analytics
+- Banking Analytics
+- Inventory Analytics
+- Operational Reporting
+- MIS Reporting
+
+---
+
+# 📈 Dashboard Development Process
+
+```
+Business Requirement
+        │
+        ▼
+Database (Oracle SQL / MySQL)
+        │
+        ▼
+Data Cleaning & Transformation
+        │
+        ▼
+Advanced SQL Development
+        │
+        ▼
+KPI Calculation
+        │
+        ▼
+Power BI / Excel Dashboard
+        │
+        ▼
+Business Insights & Decision Support
+```
+
+---
+
+# ⭐ Project Highlights
+
+✅ Executive Business Dashboards
+
+✅ Sales Analytics
+
+✅ Financial Analytics
+
+✅ HR Analytics
+
+✅ Banking Analytics
+
+✅ Inventory Management
+
+✅ Customer Support Analytics
+
+✅ Automated MIS Reporting
+
+✅ SQL Performance Optimization
+
+✅ KPI Development
+
+✅ Data Transformation
+
+✅ Business Intelligence Reporting
+
+---
+
+> **Transforming enterprise data into actionable insights through Oracle SQL, MySQL, Power BI, and Business Intelligence solutions.**
+
 ✔ Advanced SQL Query Optimization
 
 ---
