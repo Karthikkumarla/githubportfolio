@@ -71,35 +71,42 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 - Practical approach to solving business problems using data
 
 ---
+<h1 align="center">Hi, I'm Karthik Kumar</h1>
+
+<p align="center">
+  <b>Developer | Problem Solver | Continuous Learner</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Karthikkumarla">
+    <img src="https://komarev.com/ghpvc/?username=Karthikkumarla&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+---
 
 ## GitHub Analytics
 
-<h1 align="center">Hi, I'm Karthik 👋</h1>
-
 <p align="center">
-  Developer • Builder • Problem Solver
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karthikkumarla&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Karthikkumarla&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="./assets/professional-contribution-grid.svg" alt="Professional contribution graph" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikkumarla&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Karthikkumarla&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=3" alt="GitHub Trophies" />
 </p>
 
-## About Me
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karthikkumarla&theme=github-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+</p>
 
-- I build clean and useful software projects
-- I enjoy improving UI, performance, and user experience
-- I am continuously learning and creating
+---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode" />
-</p>
-
-## GitHub Activity
-
-<p align="center">
-  <img src="./assets/professional-contribution-grid.svg" alt="Professional contribution graph" width="100%" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" alt="Tech Stack" />
 </p>
 ---
 
