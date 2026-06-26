@@ -1,402 +1,571 @@
-# 💫 About Me:
-I am Karthik Kumar L A, a passionate Data Analyst, Business Intelligence Specialist, and SQL Developer with over 3 years of professional experience in transforming raw data into meaningful business insights. My expertise lies in SQL development, Power BI dashboard creation, reporting automation, data validation, and business intelligence solutions that support strategic decision-making.<br><br>I currently work as a Specialist – MIS Analytics at Sagility India Pvt Ltd, where I design interactive Power BI dashboards, develop complex Oracle SQL and SQL Server queries, automate recurring reports using Excel VBA and Power Query, and deliver executive-level KPI reporting. My work has helped reduce manual reporting effort, improve reporting accuracy, and provide real-time operational visibility for leadership teams.<br><br>Previously, I worked as a Process Consultant – Operations & Analytics, where I developed KPI dashboards, analyzed operational performance, created automated Excel reports, supported UAT, prepared BRD/FRD documentation, and improved reporting workflows through process optimization.<br><br>My Core Expertise<br>SQL Development (Oracle SQL, SQL Server, MySQL, PL/SQL)<br>Power BI Dashboard Development<br>DAX & Data Modeling<br>Power Query<br>Advanced Excel<br>VBA Macros<br>VBScript Automation<br>KPI Dashboard Design<br>Business Intelligence<br>Data Visualization<br>Reporting Automation<br>ETL Concepts<br>Data Validation<br>Data Reconciliation<br>Operational Analytics<br>Trend Analysis<br>Gap Analysis<br>Variance Analysis<br>SLA & Performance Reporting<br>Stakeholder Management<br>Business Requirements Gathering<br>BRD & FRD Documentation<br>Process Improvement<br>Technical Skills<br><br>Databases<br><br>Oracle SQL<br>SQL Server<br>MySQL<br>PL/SQL<br><br>Business Intelligence<br><br>Power BI<br>DAX<br>Power Query<br>Interactive Dashboards<br>KPI Reporting<br><br>Automation<br><br>Excel VBA<br>Power Query<br>VBScript<br>Automated Reporting Pipelines<br><br>Analytics<br><br>Data Cleaning<br>Data Transformation<br>Data Validation<br>Data Mapping<br>Data Reconciliation<br>Trend Analysis<br>Operational Analytics<br>Business Intelligence<br>Reporting Automation<br><br>Microsoft Tools<br><br>Advanced Excel<br>Pivot Tables<br>XLOOKUP<br>Power Query<br>VBA<br>PowerPoint<br>Outlook<br>Office 365<br>Professional Strengths<br>Building executive-level Power BI dashboards<br>Writing optimized SQL queries for large datasets<br>Automating repetitive reporting processes<br>Creating interactive business intelligence solutions<br>Designing KPI and SLA monitoring dashboards<br>Solving complex business problems using data<br>Communicating insights to technical and non-technical stakeholders<br>Delivering accurate, scalable, and automated reporting systems<br>Major Projects<br>Claims Analytics Dashboard<br>Sales Performance Dashboard<br>SQL Data Warehouse & Reporting Solution<br>Automated Operational Reporting System<br>Executive KPI Dashboard<br>SLA Monitoring Dashboard<br>Achievements<br>Top Gun Award<br>Excellence in Analysis & Reporting Award<br>Top Performer Award<br>Automated 20+ operational reports<br>Reduced manual reporting effort by 30%<br>Improved dashboard visibility and reporting accuracy<br>Built scalable reporting solutions used by leadership teams<br>Education<br>MBA (Finance)<br>Bachelor of Commerce (Finance)<br>Career Objective<br><br>I aim to build a career as a Senior Data Analyst, Business Intelligence Developer, Analytics Consultant, or Data Engineer, where I can leverage SQL, Power BI, automation, and business intelligence expertise to develop data-driven solutions that improve organizational performance. I am continuously expanding my knowledge in Python, Cloud Technologies (Azure/AWS), Microsoft Fabric, and AI-powered analytics to become a well-rounded modern Data Analytics professional.<br><br>Personal Brand<br><br>"I don't just create reports—I build intelligent, automated, and scalable analytics solutions that transform business data into strategic decisions."
-# 🗄️ SQL Projects
+# 🗄️ Enterprise SQL Projects Portfolio
+
+> A collection of real-world SQL projects focused on business intelligence, analytics, reporting automation, performance optimization, and decision support. These projects demonstrate advanced SQL development skills used for enterprise reporting, KPI monitoring, customer analytics, financial analysis, and operational excellence.
 
 ---
 
-## 📊 Sales Performance Analysis using SQL
+# 📊 1. Enterprise Sales Performance Analytics
 
-### Project Overview
-Analyzed sales transactions to identify revenue trends, top-performing products, customer behavior, and regional sales performance using SQL queries.
+## 📌 Business Problem
+Large organizations generate millions of sales transactions every month. Business leaders require accurate reporting to identify revenue trends, customer behavior, regional performance, profitability, and product growth opportunities.
 
-### Business Objectives
-- Calculate Total Revenue
-- Monthly Sales Trend
-- Top 10 Customers
-- Best Selling Products
-- Regional Performance
-- Profit Analysis
+## 🎯 Solution
+Designed an end-to-end SQL analytical solution to transform raw transactional data into executive-ready business insights.
 
-### SQL Concepts Used
-- SELECT
-- WHERE
-- GROUP BY
-- ORDER BY
-- CASE WHEN
-- Aggregate Functions
-- CTE
-- Window Functions
-- Joins
-- Subqueries
+## Key Business Deliverables
 
-**Database:** MySQL
+✔ Revenue Analysis
+
+✔ Gross Profit Analysis
+
+✔ Monthly & Quarterly Sales Trends
+
+✔ Year-over-Year Growth Analysis
+
+✔ Regional Performance Dashboard
+
+✔ Product Category Performance
+
+✔ Customer Segmentation
+
+✔ Top Revenue Generating Customers
+
+✔ Product Profitability Analysis
+
+✔ Sales Contribution %
+
+✔ Average Order Value
+
+✔ Customer Purchase Frequency
 
 ---
 
-## 👥 HR Analytics SQL Project
+## Advanced SQL Techniques
 
-### Project Overview
-Developed SQL reports to analyze employee data, workforce distribution, and attrition.
-
-### Insights Generated
-- Department-wise Employees
-- Gender Distribution
-- Employee Attrition
-- Salary Analysis
-- Experience Analysis
-- Hiring Trend
-- Average Salary by Department
-
-### SQL Skills
-- INNER JOIN
-- LEFT JOIN
-- GROUP BY
-- HAVING
+- Complex Multi-Table Joins
+- Recursive & Non-Recursive CTEs
 - Window Functions
-- RANK()
 - ROW_NUMBER()
-
----
-
-## 🛒 E-Commerce Customer Analysis
-
-### Project Overview
-Performed customer segmentation and purchasing behavior analysis using SQL.
-
-### KPIs
-- Total Customers
-- Repeat Customers
-- Average Order Value
-- Customer Lifetime Value
-- Top Products
-- Monthly Revenue
-
-### SQL Topics
-- Joins
-- Nested Queries
-- CASE Statements
-- Date Functions
-- Aggregate Functions
-
----
-
-## 💰 Banking Database Analysis
-
-### Project Overview
-Analyzed banking transactions to generate financial insights.
-
-### Reports
-- Account Summary
-- Monthly Transactions
-- Highest Deposits
-- Loan Analysis
-- Branch Performance
-- Customer Balance Report
-
-### SQL Features
+- RANK()
+- DENSE_RANK()
+- LEAD() / LAG()
+- CASE Expressions
+- Conditional Aggregation
+- Dynamic Date Calculations
+- Correlated Subqueries
+- Performance Optimized Queries
+- Temporary Tables
 - Views
 - Stored Procedures
-- Window Functions
-- Common Table Expressions (CTEs)
 
 ---
 
-## 📦 Inventory Management SQL
+## Business Impact
 
-### Project Overview
-Built SQL reports to monitor inventory levels and warehouse operations.
+• Reduced reporting preparation time by automating recurring sales reports.
 
-### Reports
-- Current Stock
-- Low Stock Alert
-- Warehouse Performance
-- Supplier Analysis
-- Product Movement
-- Reorder Report
+• Enabled management to identify high-value customers.
 
-### SQL Concepts
-- GROUP BY
-- CASE
-- Joins
+• Improved product performance visibility.
+
+• Delivered accurate executive KPIs for strategic decision-making.
+
+---
+
+# 👥 2. HR Workforce Analytics
+
+## 📌 Business Problem
+
+HR departments require workforce intelligence to monitor employee distribution, compensation, hiring trends, promotions, and attrition.
+
+## Solution
+
+Developed enterprise-grade HR analytical reports supporting strategic workforce planning.
+
+---
+
+## Executive Reports
+
+✔ Department Performance
+
+✔ Employee Headcount
+
+✔ Gender Diversity
+
+✔ Experience Distribution
+
+✔ Salary Benchmarking
+
+✔ Hiring Trend Analysis
+
+✔ Employee Retention Analysis
+
+✔ Attrition Dashboard
+
+✔ Average Salary by Business Unit
+
+✔ Promotion Eligibility
+
+✔ Workforce Demographics
+
+---
+
+## SQL Features Used
+
+- Advanced Joins
+- Window Functions
+- Recursive CTEs
+- Ranking Functions
+- Aggregate Analytics
+- Date Functions
+- CASE Logic
+- Pivot Reporting
+- Views
+- Stored Procedures
+
+---
+
+## Business Value
+
+• Improved workforce planning.
+
+• Supported HR leadership with accurate staffing metrics.
+
+• Automated monthly HR reporting.
+
+• Reduced manual reporting effort significantly.
+
+---
+
+# 🛒 3. Customer & E-Commerce Analytics
+
+## Project Objective
+
+Analyze customer purchasing behavior and sales patterns to improve customer retention, increase revenue, and optimize marketing campaigns.
+
+---
+
+## Business KPIs
+
+✔ Customer Lifetime Value (CLV)
+
+✔ Repeat Purchase Rate
+
+✔ Customer Segmentation
+
+✔ Average Order Value
+
+✔ Product Affinity Analysis
+
+✔ Monthly Revenue Growth
+
+✔ Sales Funnel Analysis
+
+✔ Customer Churn Indicators
+
+✔ Top Revenue Customers
+
+✔ Product Performance
+
+---
+
+## Advanced SQL Skills Demonstrated
+
+- Customer Segmentation
+- Window Analytics
+- Running Totals
+- Ranking Functions
+- Cohort Analysis
+- Date Intelligence
+- Complex Aggregations
+- Nested Queries
+- CTEs
+
+---
+
+## Business Outcome
+
+• Improved customer segmentation strategy.
+
+• Identified high-value customer groups.
+
+• Increased visibility into purchasing behavior.
+
+• Enabled marketing campaign optimization.
+
+---
+
+# 💰 4. Banking & Financial Analytics
+
+## Business Scenario
+
+Designed SQL-based financial reporting solutions for banking transaction analysis, customer balances, deposits, and loan performance.
+
+---
+
+## Reports Developed
+
+✔ Monthly Transaction Summary
+
+✔ Branch Performance Analysis
+
+✔ Customer Account Summary
+
+✔ Loan Portfolio Analysis
+
+✔ Deposit Trends
+
+✔ High Net Worth Customer Identification
+
+✔ Balance Distribution
+
+✔ Financial KPI Dashboard
+
+✔ Risk Monitoring Reports
+
+---
+
+## SQL Technologies
+
+- Views
+- Stored Procedures
+- CTEs
+- Window Functions
+- Aggregate Reporting
+- Transaction Analysis
+- Performance Tuning
+
+---
+
+## Business Benefits
+
+• Enhanced financial reporting accuracy.
+
+• Automated monthly banking reports.
+
+• Improved operational visibility.
+
+• Supported executive financial decision-making.
+
+---
+
+# 📦 5. Inventory & Supply Chain Analytics
+
+## Business Objective
+
+Optimize inventory availability while reducing stock shortages and excess inventory.
+
+---
+
+## Reports
+
+✔ Current Inventory Status
+
+✔ Warehouse Performance
+
+✔ Product Movement Analysis
+
+✔ Stock Aging Report
+
+✔ Low Inventory Alerts
+
+✔ Reorder Recommendations
+
+✔ Supplier Performance
+
+✔ Inventory Turnover
+
+✔ Demand Trend Analysis
+
+---
+
+## SQL Techniques
+
+- Inventory Aggregations
 - UNION
 - EXISTS
-- Subqueries
+- CASE Statements
+- Window Functions
+- Ranking
+- Joins
+- CTEs
+- Performance Optimization
 
 ---
 
-## 📞 Customer Support Analytics
+## Business Impact
 
-### Project Overview
-Created SQL reports to evaluate customer support performance.
+• Reduced stock-out situations.
 
-### KPIs
-- Total Tickets
-- Average Resolution Time
-- SLA Compliance
-- Agent Performance
-- Customer Satisfaction
+• Improved warehouse visibility.
 
-### SQL Topics
-- Date Functions
+• Enabled proactive inventory planning.
+
+---
+
+# 📞 6. Customer Support Performance Analytics
+
+## Objective
+
+Analyze customer support operations to improve SLA compliance, agent productivity, and customer satisfaction.
+
+---
+
+## Performance Reports
+
+✔ Ticket Volume
+
+✔ SLA Compliance
+
+✔ Resolution Time Analysis
+
+✔ Agent Productivity
+
+✔ Escalation Analysis
+
+✔ Customer Satisfaction Trends
+
+✔ First Contact Resolution
+
+✔ Response Time Monitoring
+
+---
+
+## SQL Expertise
+
+- Date Intelligence
 - Window Functions
 - Ranking
 - Aggregations
+- KPI Calculations
+- Conditional Logic
 
 ---
 
-## 📈 Business KPI Dashboard Database
+## Business Value
 
-### Project Overview
-Designed SQL queries powering executive dashboards.
+• Improved SLA monitoring.
 
-### KPIs
-- Revenue
-- Profit
-- Growth %
-- Monthly Trend
-- Top Products
-- Customer Segmentation
+• Enhanced support team productivity.
 
-### SQL Skills
-- Complex Joins
-- CTE
-- Window Functions
+• Delivered actionable operational insights.
+
+---
+
+# 📈 7. Executive Business KPI Reporting
+
+## Overview
+
+Designed enterprise SQL solutions powering executive dashboards for senior management.
+
+---
+
+## Executive KPIs
+
+✔ Revenue
+
+✔ Gross Margin
+
+✔ Profit %
+
+✔ Business Growth %
+
+✔ Customer Acquisition
+
+✔ Customer Retention
+
+✔ Sales Forecast
+
+✔ Product Contribution
+
+✔ Regional Performance
+
+✔ Executive Scorecards
+
+---
+
+## SQL Development
+
+- Enterprise Views
 - Stored Procedures
-- Views
+- Dynamic SQL
+- CTEs
+- Complex Joins
+- Window Functions
+- Query Optimization
+- KPI Calculations
 
 ---
 
-## ⚡ SQL Automation Reporting
+## Business Impact
 
-### Project Overview
-Automated recurring MIS reports using SQL queries integrated with Excel dashboards.
+• Enabled executive-level decision-making.
 
-### Deliverables
-- Daily Reports
-- Weekly Reports
-- Monthly Reports
-- Automated KPI Reports
+• Standardized KPI reporting across departments.
 
-### Technologies
+• Improved reporting consistency.
+
+---
+
+# ⚡ 8. SQL Reporting Automation
+
+## Project Overview
+
+Built fully automated SQL reporting solutions integrated with Excel dashboards, Power Query, and VBA to eliminate manual reporting processes.
+
+---
+
+## Automated Reports
+
+✔ Daily Operational Reports
+
+✔ Weekly Business Reports
+
+✔ Monthly Executive Reports
+
+✔ MIS Reports
+
+✔ KPI Dashboards
+
+✔ Sales Reports
+
+✔ Financial Reports
+
+✔ Inventory Reports
+
+✔ Customer Reports
+
+---
+
+## Technologies Used
+
 - SQL
+- MySQL
+- SQL Server
 - Excel
 - Power Query
 - VBA
-## 📊 Featured Dashboard Projects
-
-### 📈 Sales Performance Dashboard
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
-
-Designed an interactive executive dashboard to monitor overall business performance and identify sales trends.
-
-**Key Features**
-- KPI Cards (Revenue, Profit, Orders)
-- Monthly Sales Trend Analysis
-- Region-wise Performance
-- Category & Sub-category Analysis
-- Top Performing Products
-- Interactive Filters & Slicers
-
-**Business Impact**
-- Reduced manual reporting by 80%
-- Enabled faster management decisions
-- Improved sales visibility across regions
-
-**Tech Stack**
-
-`Excel` `Power Query` `Power Pivot` `Pivot Tables` `Data Visualization`
+- Stored Procedures
+- Views
+- Scheduled Queries
 
 ---
 
-### 💰 Financial Performance Dashboard
+## Automation Achievements
 
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
+• Automated recurring business reports.
 
-Comprehensive finance dashboard providing insights into revenue, expenses and profitability.
+• Reduced manual reporting effort by over 80%.
 
-### Features
+• Improved reporting accuracy and consistency.
 
-- Revenue Analysis
-- Expense Tracking
-- Profit Margin Analysis
-- Budget vs Actual
-- Monthly Financial Trends
-- Dynamic Filters
-
-### Tools
-
-`Excel` `Advanced Excel` `Power Query` `Dashboard Design`
-
-### Outcome
-
-✔ Improved financial reporting
-
-✔ Automated monthly reports
-
-✔ Reduced manual effort
+• Accelerated report generation for business stakeholders.
 
 ---
 
-### 👥 HR Analytics Dashboard
+# 💡 Advanced SQL Expertise
 
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
+## Query Development
 
-Interactive HR dashboard developed for workforce analysis.
-
-### Insights
-
-- Employee Headcount
-- Attrition Analysis
-- Gender Diversity
-- Department Distribution
-- Experience Analysis
-- Hiring Trend
-
-### Technologies
-
-`Excel`
-
-`Power Query`
-
-`Pivot Charts`
-
-`Conditional Formatting`
+- Complex SELECT Statements
+- Multi-Level Joins
+- Self Joins
+- Nested Queries
+- Correlated Subqueries
+- Recursive Queries
 
 ---
 
-### 📞 Customer Service Dashboard
+## Analytical SQL
 
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
-
-Built an operational dashboard for monitoring customer service performance.
-
-### Metrics
-
-- Calls Received
-- Calls Resolved
-- Average Handling Time
-- SLA Achievement
-- Agent Performance
-- Customer Satisfaction
-
-### Tools
-
-`Excel`
-
-`Advanced Excel`
-
-`Pivot Tables`
-
-`Automation Reports`
+- Window Functions
+- Running Totals
+- Ranking
+- Moving Average
+- Cohort Analysis
+- Customer Segmentation
+- Time Series Analysis
 
 ---
 
-### 📦 Inventory Dashboard
+## Database Objects
 
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
-
-Inventory monitoring dashboard for tracking stock availability.
-
-### Dashboard Includes
-
-- Current Inventory
-- Stock Movement
-- Reorder Levels
-- Product Categories
-- Warehouse Analysis
-- Supplier Performance
-
-### Skills Used
-
-- Excel Dashboards
-- Data Cleaning
-- Power Query
-- Advanced Formulas
+- Views
+- Materialized Views
+- Stored Procedures
+- Functions
+- Triggers
+- Indexes
 
 ---
 
-### 📊 MIS Reporting Automation
+## Performance Optimization
 
-<img align="right" width="380" src="YOUR_DASHBOARD_IMAGE_URL">
-
-Automated daily and weekly MIS reports using Excel automation.
-
-### Highlights
-
-- Automated Report Generation
-- VBA Macros
-- Power Query Refresh
-- Dynamic Dashboards
-- Email Reporting
-- Data Validation
-
-### Technologies
-
-`Excel`
-
-`VBA`
-
-`Macros`
-
-`Power Query`
-
-`Power Pivot`
-
-`Outlook Automation`
+- Query Optimization
+- Execution Plan Analysis
+- Index Optimization
+- Temporary Tables
+- Performance Tuning
+- Data Partitioning Concepts
 
 ---
 
-# 🚀 More Projects
+## Reporting & Business Intelligence
 
-| Project | Description | Tools |
-|----------|-------------|-------|
-| Sales Dashboard | Executive sales insights | Excel |
-| Finance Dashboard | Profit & Loss Analysis | Excel |
-| HR Dashboard | Employee Analytics | Excel |
-| Customer Dashboard | Customer KPI Analysis | Excel |
-| Inventory Dashboard | Stock Management | Excel |
-| MIS Automation | Automated Reporting | VBA + Excel |
-| Excel Dashboard Suite | Dynamic Business Reports | Excel |
-| KPI Dashboard | Business Performance Tracking | Excel |
-| Executive Dashboard | Management Reporting | Excel |
-| Reporting Automation | Daily MIS Automation | VBA |
+- KPI Reporting
+- Executive Dashboards
+- MIS Reporting
+- Operational Reporting
+- Business Performance Analysis
+- Automated Reporting
 
 ---
 
-## 💡 What Makes These Projects Different
+# 🛠️ Technology Stack
 
-✅ Interactive Dashboards
-
-✅ Business-Oriented KPIs
-
-✅ Automated Reporting
-
-✅ Dynamic Filters
-
-✅ Clean UI Design
-
-✅ Executive-Level Visualization
-
-✅ Excel Automation
-
-✅ Power Query Integration
-
-✅ Advanced Excel Formulas
-
-✅ Professional Dashboard Layouts
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/karthi10a022345) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwathkarthik1@gmail.com) 
-
-# 💻 Tech Stack:
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Karthikkumarla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Karthikkumarla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Karthikkumarla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+| Category | Technologies |
+|-----------|--------------|
+| Database | MySQL, SQL Server |
+| SQL | Advanced SQL, CTEs, Window Functions, Stored Procedures |
+| Reporting | Excel Dashboards, Power Query, Pivot Tables |
+| Automation | VBA, Excel Automation |
+| BI | Power BI |
+| Version Control | Git, GitHub |
 
 ---
-[![](https://komarev.com/ghpvc/?username=Karthikkumarla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📌 Highlights
+
+✔ Enterprise SQL Development
+
+✔ Business Intelligence Reporting
+
+✔ Executive Dashboard Development
+
+✔ Data Cleaning & Transformation
+
+✔ Reporting Automation
+
+✔ Performance Optimization
+
+✔ Financial Analytics
+
+✔ Sales Analytics
+
+✔ HR Analytics
+
+✔ Customer Analytics
+
+✔ Banking Analytics
+
+✔ Inventory Analytics
+
+✔ MIS Reporting
+
+✔ KPI Development
+
+✔ Advanced SQL Query Optimization
+
+---
+
+> **"Transforming raw business data into actionable insights through advanced SQL development, analytics, automation, and business intelligence solutions."**
