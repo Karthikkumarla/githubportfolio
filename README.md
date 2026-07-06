@@ -1,44 +1,83 @@
 # Hello, I'm Karthik Kumar L A
-## Specialist - MIS Analyst | Data Analyst | Business Intelligence Specialist | SQL Script Writer | Power BI | Business Analysis
+## Data Analyst | Power BI | SQL | Advanced Excel | Reporting Automation
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Specialist;Oracle+SQL+Developer;Power+BI+Dashboard+Developer;Reporting+Automation+Expert;Turning+Data+Into+Business+Insights" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Analyst;Power+BI+Developer;SQL+Analyst;Reporting+Automation+Expert;Workforce+%26+HR+Analytics;Turning+Data+Into+Business+Insights" />
 
 </p>
 
-I am a Data Analyst and Business Intelligence professional based in Bangalore, India, with hands-on experience in transforming raw business data into clear, actionable insights. My work focuses on SQL-based reporting, Power BI dashboard development, KPI tracking, data validation, Excel automation, and business process improvement.
-
-I specialize in building analytical solutions that help teams monitor performance, identify trends, improve reporting accuracy, and make confident data-driven decisions.
+Data Analyst with 3+ years of experience turning complex operational and workforce data into clear, decision-ready dashboards and reports. Expert in SQL, Power BI, and advanced Excel analysis, with a track record of automating reporting (30%+ effort saved), reconciling data across multiple systems, and partnering with leadership to surface insights on headcount, attrition, hiring, diversity, and performance.
 
 ---
 
 ## Professional Summary
 
 - Data Analyst with 3+ years of experience in analytics, BI reporting, and automation
-- Strong expertise in SQL, Power BI, Excel, Power Query, VBA, and dashboard development
-- Experienced in building KPI dashboards, automated reports, and operational analytics solutions
-- Skilled in data cleaning, validation, visualization, reporting automation, and business insights
+- Expert in SQL, Power BI, DAX, and advanced Excel (Power Query, VBA Macros)
+- Proven track record automating recurring reports, cutting manual effort by 30%+
+- Skilled in data reconciliation, validation, and cleaning across multiple systems
+- Experienced partnering with leadership on headcount, attrition, hiring, diversity, and performance insights
 - Actively looking for Data Analyst, BI Analyst, SQL Developer, and Reporting Analyst opportunities
 
 ---
 
 ## Live Portfolio
 
-[View My Portfolio](https://karthikkumardataanalystportfolio-craft-521.lovable.app)
+[View My Portfolio](https://karthikresume-craft-521.lovable.app)
+
+---
+
+## Experience
+
+### Specialist – MIS Analytics
+**Sagility India Pvt Ltd, Bangalore** | July 2024 – Present
+- Designed, built, and maintained Power BI dashboards tracking real-time KPIs (productivity, SLA, quality, compliance)
+- Generated monthly/quarterly reporting refreshes with trend analysis and drill-down capability
+- Modernized legacy Excel reports into interactive Power BI dashboards
+- Authored complex SQL queries for extraction, reconciliation, validation, and ad-hoc reporting
+- Automated recurring reports with Excel Power Query and VBA Macros, cutting manual effort by 30%+
+- Partnered with stakeholders to gather requirements, translate them into user stories, and support Agile sprints
+
+### Process Consultant – Operations & Analytics
+**Sagility India Pvt Ltd, Bangalore** | May 2023 – June 2024
+- Built KPI dashboards and automated reports, improving reporting efficiency by 30%+
+- Conducted trend analysis on large operational datasets to support capacity and business planning
+- Performed gap analysis, standardized workflows, and improved data quality
+- Supported UAT and developed BRD/FRD documentation
 
 ---
 
 ## Core Skills
 
-### Data Analytics & Business Intelligence
-Power BI, KPI Reporting, Dashboard Development, Data Visualization, Business Intelligence, Operational Analytics
+### Languages & Querying
+SQL, DAX, Advanced Excel, VBA Macros, Power Query, VBScript, Report Automation, Microsoft Office Suite, Excel, PowerPoint, Outlook
 
-### SQL & Reporting
-SQL, Oracle SQL, Data Extraction, Query Development, Data Validation, Reporting Automation
+### BI & Visualization
+Power BI, Tableau, Looker Studio, Excel Dashboards, Data Storytelling, Data Visualization, Interactive Reporting, Business Intelligence Reporting
 
-### Excel & Automation
-Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Process Automation
+### Analytics & Statistics
+Statistical Analysis, Forecasting, KPI/SLA Design, Cohort & Trend Analysis, Root Cause Analysis, ETL/ELT, Data Modeling, Data Cleaning, Reconciliation, Validation
+
+### Domain Expertise
+Business Analysis, Financial Analysis, Operational Analytics, Performance Metrics, Workforce & HR Analytics, SLA & Compliance Reporting
+
+---
+
+## Key Projects
+
+### SLA & Compliance Monitoring Dashboards
+*Power BI & SQL*
+- Mapped workflows to identify SLA breaches and built real-time Power BI dashboards
+- Conducted root cause analysis on turnaround delays
+
+### Operational Reporting Automation
+*Excel Power Query & VBA*
+- Automated recurring reports using Power Query and VBA, reducing manual effort and improving accuracy
+
+### Business Performance & Trend Analysis
+*SQL & Advanced Excel*
+- Analysed large datasets to identify performance trends, productivity drivers, and capacity insights
 
 ---
 
@@ -46,19 +85,38 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 
 ### Claims Analytics Dashboard
 
-![Claims Analytics Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-claims-B04UsJfW.jpg)
+![Claims Analytics Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-claims-B04UsJfW.jpg)
 
 ### Sales Performance Dashboard
 
-![Sales Performance Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-sales-Wol3ggFW.jpg)
+![Sales Performance Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-sales-Wol3ggFW.jpg)
 
 ### HR Analytics Dashboard
 
-![HR Analytics Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-hr-ChsMt16P.jpg)
+![HR Analytics Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-hr-ChsMt16P.jpg)
 
 ### SQL Data Warehouse & Reporting Solution
 
-![SQL Reporting Console](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-sql-B-47Ervb.jpg)
+![SQL Reporting Console](https://karthikresume-craft-521.lovable.app/assets/gallery-sql-B-47Ervb.jpg)
+
+---
+
+## Education
+
+**Master of Business Administration (MBA) – Finance**
+Canara Bank School of Management Studies, Bangalore University | 2023
+
+**Bachelor of Commerce (B.Com) – Finance**
+The National Degree College Bagepalli, Bangalore University | 2021
+
+---
+
+## Certifications & Awards
+
+- Data Analyst Certification – EXCELR
+- Top Gun Award – Exceptional performance & fastest target achievement
+- Quality Champion – High accuracy, compliance & data integrity
+- Top Performer – 100% quality scores & exceeded expectations
 
 ---
 
@@ -106,9 +164,10 @@ Advanced Excel, Power Query, Excel VBA, Automated Reports, Data Cleaning, Proces
 
 ## Connect With Me
 
-- Portfolio: [karthikkumardataanalystportfolio-craft-521.lovable.app](https://karthikkumardataanalystportfolio-craft-521.lovable.app)
+- Portfolio: [karthikresume-craft-521.lovable.app](https://karthikresume-craft-521.lovable.app)
 - LinkedIn: [linkedin.com/in/karthi10a022345](https://linkedin.com/in/karthi10a022345)
-- GitHub: [github.com/karthikkumar-la](https://github.com/karthikkumar-la)
+- GitHub: [github.com/Karthikkumarla](https://github.com/Karthikkumarla)
+- Phone: +91 9900408832
 - Email: [ashwathkarthik1@gmail.com](mailto:ashwathkarthik1@gmail.com)
 
 ---
