@@ -7,7 +7,7 @@
 
 </p>
 
-Data Analyst with 3+ years of experience turning complex operational and workforce data into clear, decision-ready dashboards and reports. Expert in SQL, Power BI, and advanced Excel analysis, with a track record of automating reporting (30%+ effort saved), reconciling data across multiple systems, and partnering with leadership to surface insights on headcount, attrition, hiring, diversity, and performance.
+Data Analyst with 3+ years of experience turning complex operational and workforce data into clear, decision-ready dashboards and reports. Expert in SQL, Power BI, and advanced Excel automation (VBA Macros, Power Query), with a track record of automating reporting (30%+ effort saved), reconciling data across multiple systems, and partnering with leadership to surface insights on headcount, attrition, hiring, diversity, and performance.
 
 ---
 
@@ -81,6 +81,19 @@ Business Analysis, Financial Analysis, Operational Analytics, Performance Metric
 
 ---
 
+## Mini Projects & Skill Demos
+
+| Project | Tech Stack | Link |
+|---|---|---|
+| One-Click Month-End Report Consolidator | Excel VBA, Macros, Report Automation | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/01-vba-month-end-consolidator) |
+| Automated Data Cleansing & Merge Pipeline | Power Query, Data Cleansing, ETL | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/02-power-query-data-cleansing-pipeline) |
+| Automated Variance & Exception Flagging Tool | Excel VBA, Variance Analysis, Automation | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/03-vba-variance-exception-flagging) |
+| Automated Daily KPI Snapshot Job | SQL, Stored Procedures, Automation | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/04-sql-daily-kpi-snapshot) |
+| Self-Refreshing SLA Compliance Tracker | Power BI, Power Query, SLA Reporting | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/05-powerbi-sla-compliance-tracker) |
+| Automated Email Report Distribution | Excel VBA, Outlook Automation, Reporting | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/06-vba-email-report-distribution) |
+
+---
+
 ## Dashboard Portfolio
 
 ### Claims Analytics Dashboard
@@ -113,7 +126,6 @@ The National Degree College Bagepalli, Bangalore University | 2021
 
 ## Certifications & Awards
 
-- Data Analyst Certification – EXCELR
 - Top Gun Award – Exceptional performance & fastest target achievement
 - Quality Champion – High accuracy, compliance & data integrity
 - Top Performer – 100% quality scores & exceeded expectations
@@ -158,8 +170,9 @@ The National Degree College Bagepalli, Bangalore University | 2021
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,git,github,vscode" alt="Tech Stack" />
 </p>
+
 ---
 
 ## Connect With Me
