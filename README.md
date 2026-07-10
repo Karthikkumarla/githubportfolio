@@ -24,7 +24,7 @@ Data Analyst with 3+ years of experience turning complex operational and workfor
 
 ## Live Portfolio
 
-[View My Portfolio](https://karthikresume-craft-521.lovable.app)
+[View My Portfolio](https://karthikkumardataanalystportfolio-craft-521.lovable.app)
 
 ---
 
@@ -64,20 +64,59 @@ Business Analysis, Financial Analysis, Operational Analytics, Performance Metric
 
 ---
 
-## Key Projects
+## Featured Case Studies
 
-### SLA & Compliance Monitoring Dashboards
-*Power BI & SQL*
-- Mapped workflows to identify SLA breaches and built real-time Power BI dashboards
-- Conducted root cause analysis on turnaround delays
+Real-world business analytics engagements framed as enterprise case studies.
 
-### Operational Reporting Automation
-*Excel Power Query & VBA*
-- Automated recurring reports using Power Query and VBA, reducing manual effort and improving accuracy
+### Claims Analytics Dashboard
+*SQL + Power BI + DAX*
 
-### Business Performance & Trend Analysis
-*SQL & Advanced Excel*
-- Analysed large datasets to identify performance trends, productivity drivers, and capacity insights
+**Business Problem:** Leadership lacked real-time visibility into claims processing productivity, SLA adherence, and quality metrics, resulting in delayed operational decisions and reactive management.
+
+**Business Impact:** Reduced report turnaround from days to minutes and improved SLA compliance visibility by 40%.
+
+![Claims Analytics Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-claims-B04UsJfW.jpg)
+
+[View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/featured-projects/01-claims-analytics-dashboard)
+
+---
+
+### Sales Performance Dashboard
+*SQL + Power BI + Excel*
+
+**Business Problem:** Sales leadership relied on fragmented spreadsheets that made it difficult to monitor revenue trends, win rates, and regional performance in a timely, consistent way.
+
+**Business Impact:** Improved sales visibility and enabled data-driven target tracking across all regions in real time.
+
+![Sales Performance Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-sales-Wol3ggFW.jpg)
+
+[View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/featured-projects/02-sales-performance-dashboard)
+
+---
+
+### HR Analytics Dashboard
+*Power BI + Excel*
+
+**Business Problem:** HR teams struggled to track headcount trends, attrition drivers, and hiring funnel efficiency from disconnected manual reports.
+
+**Business Impact:** Gave HR leadership a single, real-time view of workforce health and reduced manual reporting effort.
+
+![HR Analytics Dashboard](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-hr-ChsMt16P.jpg)
+
+[View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/featured-projects/03-hr-analytics-dashboard)
+
+---
+
+### SQL Data Warehouse & Reporting Solution
+*Oracle SQL + ETL*
+
+**Business Problem:** Reporting depended on inconsistent, siloed data with no centralized, validated source of truth, causing discrepancies and slow turnaround.
+
+**Business Impact:** Improved data accuracy and reduced reconciliation effort while accelerating report delivery.
+
+![SQL Data Warehouse & Reporting Solution](https://karthikkumardataanalystportfolio-craft-521.lovable.app/assets/gallery-sql-B-47Ervb.jpg)
+
+[View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/featured-projects/04-sql-data-warehouse-reporting)
 
 ---
 
@@ -91,26 +130,6 @@ Business Analysis, Financial Analysis, Operational Analytics, Performance Metric
 | Automated Daily KPI Snapshot Job | SQL, Stored Procedures, Automation | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/04-sql-daily-kpi-snapshot) |
 | Self-Refreshing SLA Compliance Tracker | Power BI, Power Query, SLA Reporting | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/05-powerbi-sla-compliance-tracker) |
 | Automated Email Report Distribution | Excel VBA, Outlook Automation, Reporting | [View Code](https://github.com/Karthikkumarla/githubportfolio/tree/main/mini-projects/06-vba-email-report-distribution) |
-
----
-
-## Dashboard Portfolio
-
-### Claims Analytics Dashboard
-
-![Claims Analytics Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-claims-B04UsJfW.jpg)
-
-### Sales Performance Dashboard
-
-![Sales Performance Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-sales-Wol3ggFW.jpg)
-
-### HR Analytics Dashboard
-
-![HR Analytics Dashboard](https://karthikresume-craft-521.lovable.app/assets/gallery-hr-ChsMt16P.jpg)
-
-### SQL Data Warehouse & Reporting Solution
-
-![SQL Reporting Console](https://karthikresume-craft-521.lovable.app/assets/gallery-sql-B-47Ervb.jpg)
 
 ---
 
@@ -177,7 +196,7 @@ The National Degree College Bagepalli, Bangalore University | 2021
 
 ## Connect With Me
 
-- Portfolio: [karthikresume-craft-521.lovable.app](https://karthikresume-craft-521.lovable.app)
+- Portfolio: [karthikkumardataanalystportfolio-craft-521.lovable.app](https://karthikkumardataanalystportfolio-craft-521.lovable.app)
 - LinkedIn: [linkedin.com/in/karthi10a022345](https://linkedin.com/in/karthi10a022345)
 - GitHub: [github.com/Karthikkumarla](https://github.com/Karthikkumarla)
 - Phone: +91 9900408832
