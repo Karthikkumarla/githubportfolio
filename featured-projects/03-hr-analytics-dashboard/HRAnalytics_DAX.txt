@@ -1,0 +1,44 @@
+/* ============================================================================
+   HR Analytics Dashboard — DAX Measures (Power BI)
+   ========================================================================= */
+
+Headcount (Active) =
+CALCULATE ( COUNTROWS ( Employees ), Employees[Status] = "Active" )
+
+Attrition Count =
+CALCULATE ( COUNTROWS ( Employees ), Employees[IsAttrition] = 1 )
+
+Attrition Rate % =
+DIVIDE (
+    [Attrition Count],
+    [Headcount (Active)] + [Attrition Count],
+    0
+)
+
+Avg Tenure (Months) =
+AVERAGE ( Employees[TenureMonths] )
+
+New Hires (Period) =
+CALCULATE (
+    COUNTROWS ( Employees ),
+    FILTER ( Employees, Employees[HireDate] >= MIN ( 'Date'[Date] ) && Employees[HireDate] <= MAX ( 'Date'[Date] ) )
+)
+
+Time to Fill (Days) =
+AVERAGE ( Requisitions[DaysToFill] )
+
+Offer Acceptance Rate % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( Requisitions ), Requisitions[OfferStatus] = "Accepted" ),
+    CALCULATE ( COUNTROWS ( Requisitions ), Requisitions[OfferStatus] <> BLANK () ),
+    0
+)
+
+Attrition Rate % (Prior Period) =
+CALCULATE (
+    [Attrition Rate %],
+    DATEADD ( 'Date'[Date], -1, MONTH )
+)
+
+Attrition Trend =
+[Attrition Rate %] - [Attrition Rate % (Prior Period)]

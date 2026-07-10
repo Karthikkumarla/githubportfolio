@@ -1,0 +1,46 @@
+/* ============================================================================
+   Claims Analytics Dashboard — DAX Measures (Power BI)
+   ========================================================================= */
+
+Total Claims Closed =
+COUNTROWS ( FILTER ( vw_Claims_Productivity, vw_Claims_Productivity[ClaimStatus] = "Closed" ) )
+
+Avg Turnaround Hours =
+AVERAGE ( vw_Claims_Productivity[TurnaroundHours] )
+
+SLA Compliance % =
+DIVIDE (
+    SUM ( vw_Claims_Productivity[MetSLA] ),
+    [Total Claims Closed],
+    0
+)
+
+Quality Score % =
+DIVIDE (
+    CALCULATE ( COUNTROWS ( vw_Claims_Productivity ), vw_Claims_Productivity[QualityCheckResult] = "Pass" ),
+    [Total Claims Closed],
+    0
+)
+
+SLA Compliance % (Prior Period) =
+CALCULATE (
+    [SLA Compliance %],
+    DATEADD ( 'Date'[Date], -1, MONTH )
+)
+
+SLA Compliance % Change =
+[SLA Compliance %] - [SLA Compliance % (Prior Period)]
+
+Claims Backlog =
+CALCULATE (
+    COUNTROWS ( vw_Claims_Productivity ),
+    vw_Claims_Productivity[ClaimStatus] = "In Progress"
+)
+
+SLA Status =
+SWITCH (
+    TRUE (),
+    [SLA Compliance %] >= 0.95, "On Target",
+    [SLA Compliance %] >= 0.85, "At Risk",
+    "Breach"
+)
